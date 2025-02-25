@@ -1,0 +1,1 @@
+web: gunicord --bind :$PORT app:app
